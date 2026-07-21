@@ -1,0 +1,11 @@
+The game starts when any key is pressed --> then the game shows level1
+And then the btn is flashed and the level 1 is started
+then the user pressed a btn and then we check that pressed btn and the game 
+seq is matched or not
+
+check--> same --> level up
+    ---> game over
+    
+
+gameSeq[];--> like the yellow, blue etc
+userSeq[];
